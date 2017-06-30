@@ -8,7 +8,7 @@ For instance, www.somedomain.com and somedomain.com are the same, so the script 
 
 # Usage
 - Change permissions on file:
-  - chmod u+x getdomains.sh
+  - `chmod u+x getdomains.sh`
 - `./getdomains.sh`
 
 
